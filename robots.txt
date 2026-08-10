@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-chestnyh-kazino.github.io
+Sitemap: https://top-chestnyh-kazino.github.io/sitemap.xml
